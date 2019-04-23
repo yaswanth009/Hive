@@ -1,4 +1,4 @@
-load data inpath '/project/dz/collab/dopsmdm_test/File/FORD_PIN22RGN_FT.txt' into table dopsmdm_db.report_load;
+load data inpath '/project/dz/test/File/TextFile.txt' into table dopsmdm_db.report_load;
 
 INSERT INTO dopsmdm_db.report PARTITION(file_date)
 SELECT Brand as Brand, 
