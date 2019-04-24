@@ -1,1 +1,1 @@
-# Hive loading ETL Scripts
+# Hive ETL Scripts
