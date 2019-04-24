@@ -1,1 +1,1 @@
-# Hive ETL Scripts
+# Hive ETL(Extract Transform Load) Scripts
