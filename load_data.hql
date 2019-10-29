@@ -1,4 +1,4 @@
-load data inpath '/project/dz/test/File/TextFile.txt' into table dopsmdm_db.report_load;
+load data inpath '/Data/Space/test/File/TextFile.txt' into table dopsmdm_db.report_load;
 
 INSERT INTO dopsmdm_db.report PARTITION(file_date)
 SELECT Brand as Brand, 
