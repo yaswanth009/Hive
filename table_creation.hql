@@ -45,7 +45,7 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '\t' 
 LINES TERMINATED BY '\n' 
 STORED AS TEXTFILE
-LOCATION '/project/dz/collab/dopsmdm_test/Testing/';
+LOCATION '/Data/Space/test/File/Testing/';
 
 
 --Main Table 
