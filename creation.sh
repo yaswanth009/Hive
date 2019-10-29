@@ -1,5 +1,5 @@
 
-hdfs dfs -copyFromLocal /s/yaswanth/TextFile.txt /project/dz/test/File/
+hdfs dfs -copyFromLocal /s/yaswanth/TextFile.txt /Data/Space/test/File/
 
 hive -f table_creation.hql
 
